@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learn To Count</string>
+    <string name="firstNumber"></string>
+    <string name="sign"></string>
+    <string name="lastNumber"></string>
+    <string name="correct">Benar!</string>
+
+</resources>
